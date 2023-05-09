@@ -1,0 +1,67 @@
+body{
+    background-color: rgba(4, 0, 255, 0.521);
+}
+
+div{
+    background-color: aliceblue;
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+section{
+    background-color: aliceblue;
+    border: 1px solid black;
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+fieldset{
+    margin-bottom: 12px;
+}
+
+legend{
+    background-color: rgba(4, 0, 255, 0.521);
+    padding: 5px;
+    border-radius: 20px;
+}
+
+span{
+    font-weight: bold;
+}
+
+PRE{
+    font-size: 12px;
+    color: black;
+}
+
+li {
+    color: black;
+}
+
+h3{
+    color: black;
+}
+
+p {
+   color: black;
+}
+
+h1 {
+    padding: 12px;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.parrafo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parrafo img{
+    width: 200px; 
+    height: 200px; 
+}
